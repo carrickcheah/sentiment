@@ -31,11 +31,17 @@ LLM processes news data to generate sentiment signals, enabling a robust Trainin
 
 ## Process
 
+### API
+
 Get the API key from [CryptoPanic](https://cryptopanic.com/)  
 ![002](./images/002.png)  
+&nbsp;
+&nbsp;
+
+### Data Streaming tools
 
 Set up Quix Streams and implement the logic.
-[quixstreams](https://quix.io/docs/quix-streams/connectors/sources/custom-sources.html#custom-sources-and-jupyter-notebook)
+[QuixstreamsConnectors](https://quix.io/docs/quix-streams/connectors/sources/custom-sources.html#custom-sources-and-jupyter-notebook)
 ![003](./images/003.png)
 
-Build the first mirco-services and test
+### Build the first mirco-services and test
