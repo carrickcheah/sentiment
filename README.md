@@ -25,6 +25,10 @@ The business problem involves analyzing vast, unstructured news data to extract 
 - LLM Deployment: Deploy Llama 3.2.3 and OpenAI GPT-4o-mini locally for market sentiment analysis.
 - Feature Storage: Publish processed sentiment data to Hopsworks Feature Store, enabling feature views.
 
+## Cost-Effective Backup with Dual LLMs
+
+We use two LLMs, Got-4o-Mini and LLaMA 3.2, locally and on the cloud to ensure cost-effective backups.
+
 ## Ready to Use
 
 LLM processes news data to generate sentiment signals, enabling a robust Training Service. Predictions can retrieve features from the Feature Store for real-time insights. Now, data scientists can use this system to train models efficiently and make data-driven decisions.  
@@ -43,5 +47,7 @@ Get the API key from [CryptoPanic](https://cryptopanic.com/)
 Set up Quix Streams and implement the logic.
 [QuixstreamsConnectors](https://quix.io/docs/quix-streams/connectors/sources/custom-sources.html#custom-sources-and-jupyter-notebook)
 ![003](./images/003.png)
+&nbsp;
+&nbsp;
 
 ### Build the first mirco-services and test
