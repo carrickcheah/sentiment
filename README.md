@@ -29,4 +29,13 @@ The business problem involves analyzing vast, unstructured news data to extract 
 
 LLM processes news data to generate sentiment signals, enabling a robust Training Service. Predictions can retrieve features from the Feature Store for real-time insights. Now, data scientists can use this system to train models efficiently and make data-driven decisions.  
 
-## Duidance
+## Process
+
+Get the API key from [CryptoPanic](https://cryptopanic.com/)  
+![002](./images/002.png)  
+
+Set up Quix Streams and implement the logic.
+[quixstreams](https://quix.io/docs/quix-streams/connectors/sources/custom-sources.html#custom-sources-and-jupyter-notebook)
+![003](./images/003.png)
+
+Build the first mirco-services and test
