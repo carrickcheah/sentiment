@@ -50,4 +50,3 @@ Set up Quix Streams and implement the logic.
 &nbsp;
 &nbsp;
 
-### Build the first mirco-services and test
