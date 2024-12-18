@@ -50,3 +50,9 @@ Set up Quix Streams and implement the logic.
 &nbsp;
 &nbsp;
 
+### Fetch data by batch
+
+![Fetching data](./images/004.png)  
+&nbsp;
+&nbsp;
+
